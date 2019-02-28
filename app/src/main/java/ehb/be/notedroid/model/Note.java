@@ -10,7 +10,7 @@ public class Note implements Serializable {
     private String titelNote;
     private String contentNote;
     private Date dateNote;
-    @PrimaryKey
+    @PrimaryKey(autoGenerate = true)
     private long id;
 
     public long getId() {
