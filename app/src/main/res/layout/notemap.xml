@@ -9,7 +9,7 @@
         android:id="@+id/cv_note"
         android:layout_width="0dp"
         android:layout_height="126dp"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="2dp"
         app:cardBackgroundColor="@color/colorAccent"
         app:cardCornerRadius="2dp"
         app:cardElevation="6dp"
